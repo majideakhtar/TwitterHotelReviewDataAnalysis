@@ -1,0 +1,23 @@
+specification
+color
+find
+purchase
+free
+Tracking
+status
+Feedback
+rating
+review
+sell
+adverties
+gift
+customer
+care
+good
+very good
+awesome
+nice
+attractive
+fantastic
+wonderfull
+worth

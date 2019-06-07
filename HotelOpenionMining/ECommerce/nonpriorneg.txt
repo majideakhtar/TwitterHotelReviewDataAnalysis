@@ -1,0 +1,11 @@
+fail
+fails
+damage
+Heating
+overHeating
+flickering
+return
+unexpected
+restart
+poweroff
+notgood

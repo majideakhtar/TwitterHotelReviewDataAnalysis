@@ -1,0 +1,25 @@
+venugopala y s:taj hotel is good
+venugopala y s:ashoka hotel is good
+venugopala y s:ashoka is good hotel
+venugopala y s:a2b is bad hotel but taste is good
+venugopala y s:a2b is good hotel but taste is bad
+venugopala y s:grand hotel is bad
+venugopala y s:xxx is good
+tejus kumar s:taj hotel is good
+tejus kumar s:ashoka is bad
+tejus kumar s:ashoka is bad hotel
+tejus kumar s:a2b is awesome hotel but taste is bad
+tejus kumar s:a2b is awesome hotel but taste is good
+tejus kumar s:grand hotel is good
+tejus kumar s:xxx is bad
+tejus kumar s:xxx is bad hotel
+tejus kumar s:ashoka hotel is awesome
+tejus kumar s:vvv hotel bad
+tejus kumar s:a2b is worst hotel
+lohit kg:taj hotel is good
+lohit kg:ashoka hotel is avarage
+lohit kg:ashoka is average hotel
+lohit kg:a2b is bad hotel but taste is bad
+lohit kg:a2b is good hotel but taste is good
+lohit kg:a2b is worst hotel but taste is bad
+lohit kg:grand hotel is ok

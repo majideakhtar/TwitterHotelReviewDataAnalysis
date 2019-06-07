@@ -1,0 +1,16 @@
+product 
+shop
+buy
+add
+cart
+website
+online
+categories 
+sales 
+offers
+quality
+marketing
+type
+price
+discount
+search

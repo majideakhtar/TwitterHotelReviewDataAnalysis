@@ -1,0 +1,7 @@
+lohit kg:taj hotel is good
+lohit kg:ashoka hotel is avarage
+lohit kg:ashoka is average hotel
+lohit kg:a2b is bad hotel but taste is bad
+lohit kg:a2b is good hotel but taste is good
+lohit kg:a2b is worst hotel but taste is bad
+lohit kg:grand hotel is ok
